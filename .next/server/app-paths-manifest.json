@@ -1,11 +1,11 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/auth/login/page": "app/auth/login/page.js",
   "/auth/register/page": "app/auth/register/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
   "/dashboard/edukasi/page": "app/dashboard/edukasi/page.js",
   "/dashboard/bank-sampah/page": "app/dashboard/bank-sampah/page.js",
-  "/dashboard/page": "app/dashboard/page.js",
   "/dashboard/organik/page": "app/dashboard/organik/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
   "/page": "app/page.js",
   "/admin/announcements/page": "app/admin/announcements/page.js",
   "/admin/page": "app/admin/page.js"

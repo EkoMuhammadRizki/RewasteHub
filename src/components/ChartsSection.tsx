@@ -12,9 +12,6 @@ import {
     Pie,
     Cell,
     Legend,
-    defs,
-    LinearGradient,
-    Stop,
 } from "recharts";
 import { depositTrendsData, wasteCompositionData } from "@/lib/data";
 

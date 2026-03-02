@@ -15,15 +15,6 @@
       "static/css/f45b253e25410e81.css",
       "static/chunks/app/layout-6c7849670e691496.js"
     ],
-    "/auth/login/page": [
-      "static/chunks/webpack-ecb508ca4a421032.js",
-      "static/chunks/4bd1b696-409494caf8c83275.js",
-      "static/chunks/255-091853b4155593e2.js",
-      "static/chunks/main-app-07ff3e3c3b823c2a.js",
-      "static/chunks/473-fdc0df7fa4058568.js",
-      "static/chunks/619-1108b4c084a63a2d.js",
-      "static/chunks/app/auth/login/page-a885eedadeca254d.js"
-    ],
     "/auth/register/page": [
       "static/chunks/webpack-ecb508ca4a421032.js",
       "static/chunks/4bd1b696-409494caf8c83275.js",
@@ -32,6 +23,15 @@
       "static/chunks/473-fdc0df7fa4058568.js",
       "static/chunks/619-1108b4c084a63a2d.js",
       "static/chunks/app/auth/register/page-e79aacef80c50b9e.js"
+    ],
+    "/auth/login/page": [
+      "static/chunks/webpack-ecb508ca4a421032.js",
+      "static/chunks/4bd1b696-409494caf8c83275.js",
+      "static/chunks/255-091853b4155593e2.js",
+      "static/chunks/main-app-07ff3e3c3b823c2a.js",
+      "static/chunks/473-fdc0df7fa4058568.js",
+      "static/chunks/619-1108b4c084a63a2d.js",
+      "static/chunks/app/auth/login/page-a885eedadeca254d.js"
     ],
     "/dashboard/edukasi/page": [
       "static/chunks/webpack-ecb508ca4a421032.js",
@@ -51,6 +51,15 @@
       "static/chunks/122-941c0863e10d8603.js",
       "static/chunks/app/dashboard/bank-sampah/page-b4df3b0cbfee2e8e.js"
     ],
+    "/dashboard/organik/page": [
+      "static/chunks/webpack-ecb508ca4a421032.js",
+      "static/chunks/4bd1b696-409494caf8c83275.js",
+      "static/chunks/255-091853b4155593e2.js",
+      "static/chunks/main-app-07ff3e3c3b823c2a.js",
+      "static/chunks/473-fdc0df7fa4058568.js",
+      "static/chunks/122-941c0863e10d8603.js",
+      "static/chunks/app/dashboard/organik/page-d76d69abc3b83378.js"
+    ],
     "/dashboard/page": [
       "static/chunks/webpack-ecb508ca4a421032.js",
       "static/chunks/4bd1b696-409494caf8c83275.js",
@@ -60,15 +69,6 @@
       "static/chunks/223-6390bc7790fc63e8.js",
       "static/chunks/122-941c0863e10d8603.js",
       "static/chunks/app/dashboard/page-e115e7854e880fe0.js"
-    ],
-    "/dashboard/organik/page": [
-      "static/chunks/webpack-ecb508ca4a421032.js",
-      "static/chunks/4bd1b696-409494caf8c83275.js",
-      "static/chunks/255-091853b4155593e2.js",
-      "static/chunks/main-app-07ff3e3c3b823c2a.js",
-      "static/chunks/473-fdc0df7fa4058568.js",
-      "static/chunks/122-941c0863e10d8603.js",
-      "static/chunks/app/dashboard/organik/page-d76d69abc3b83378.js"
     ],
     "/page": [
       "static/chunks/webpack-ecb508ca4a421032.js",
